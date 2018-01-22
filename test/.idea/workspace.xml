@@ -15,6 +15,7 @@
     <SUITE FILE_PATH="coverage/test$suit.coverage" NAME="suit Coverage Results" MODIFIED="1509522575696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythontest" />
     <SUITE FILE_PATH="coverage/test$timeNum.coverage" NAME="timeNum Coverage Results" MODIFIED="1509532979350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythontest" />
     <SUITE FILE_PATH="coverage/test$ios_simple_simulator.coverage" NAME="ios_simple_simulator Coverage Results" MODIFIED="1511151327189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../appium_ios_sample_code-master/examples/python" />
+    <SUITE FILE_PATH="coverage/test$Unittests_for_appium_iOS_PhilmIOSTests_test_action.coverage" NAME="Unittests for appium_iOS.PhilmIOSTests.test_action Coverage Results" MODIFIED="1516012907597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest" />
     <SUITE FILE_PATH="coverage/test$oneTest.coverage" NAME="oneTest Coverage Results" MODIFIED="1493200723826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webTest/webOneTest" />
     <SUITE FILE_PATH="coverage/test$urlLib.coverage" NAME="urlLib Coverage Results" MODIFIED="1504595633319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webTest/webOneTest" />
     <SUITE FILE_PATH="coverage/test$webDemo.coverage" NAME="webDemo Coverage Results" MODIFIED="1493197165374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webTest/webOneTest" />
@@ -69,7 +70,7 @@
       <file leaf-file-name="musicDownload.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webTest/musicDownload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-84">
+            <state relative-caret-position="210">
               <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="e#23#32#0" expanded="true" />
@@ -78,10 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="picture_demo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="picture_demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webTest/picture_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="780">
               <caret line="56" column="53" lean-forward="false" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
               <folding>
                 <element signature="e#25#39#0" expanded="true" />
@@ -90,10 +91,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="appium_iOS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/appiumTest/appium_iOS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="screenshotTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythontest/screenshotTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="225">
               <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
               <folding>
                 <element signature="e#25#34#0" expanded="true" />
@@ -158,7 +169,6 @@
         <option value="$PROJECT_DIR$/webTest/webOneTest/waitTimeTest.py" />
         <option value="$PROJECT_DIR$/webTest/webOneTest/sorting.py" />
         <option value="$PROJECT_DIR$/../appium_ios_sample_code-master/examples/python/ios_simple_simulator.py" />
-        <option value="$PROJECT_DIR$/appiumTest/appium_iOS.py" />
         <option value="$PROJECT_DIR$/pythontest/screenshot.py" />
         <option value="$PROJECT_DIR$/pythontest/kongjian.py" />
         <option value="$PROJECT_DIR$/webTest/webOneTest/list.py" />
@@ -173,6 +183,7 @@
         <option value="$PROJECT_DIR$/webTest/progressBar.py" />
         <option value="$PROJECT_DIR$/../python3_api/weather_api/crawl_image.py" />
         <option value="$PROJECT_DIR$/webTest/picture_demo.py" />
+        <option value="$PROJECT_DIR$/appiumTest/appium_iOS.py" />
       </list>
     </option>
   </component>
@@ -209,6 +220,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,8 +258,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,7 +291,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.picture_demo">
+  <component name="RunManager" selected="Python tests.Unittests for appium_iOS.PhilmIOSTests.test_action">
+    <configuration name="Unittests for appium_iOS.PhilmIOSTests.test_action" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appiumTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;appium_iOS.PhilmIOSTests.test_action&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
     <configuration name="Unittests in add_unittest_2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,21 +320,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/unittestDemo/add_unittest_2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration name="Unittests in add_unittest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittestDemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittestDemo/add_unittest.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -513,19 +524,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in add_unittest.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in add_unittest_2.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python.musicDownload" />
-      <item index="3" class="java.lang.String" itemvalue="Python.picture_demo" />
-      <item index="4" class="java.lang.String" itemvalue="Python.progressBar" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in add_unittest_2.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.musicDownload" />
+      <item index="2" class="java.lang.String" itemvalue="Python.picture_demo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.progressBar" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for appium_iOS.PhilmIOSTests.test_action" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.picture_demo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.musicDownload" />
-        <item index="2" class="java.lang.String" itemvalue="Python.progressBar" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in add_unittest_2.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in add_unittest.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for appium_iOS.PhilmIOSTests.test_action" />
+        <item index="1" class="java.lang.String" itemvalue="Python.picture_demo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.musicDownload" />
+        <item index="3" class="java.lang.String" itemvalue="Python.progressBar" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in add_unittest_2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -546,11 +557,11 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_add_unittest_2_py - 2017.12.06 at 17h 59m 12s.xml">
-      <configuration name="Unittests in add_unittest_2.py" configurationId="tests" />
+    <history-entry file="Unittests_for_appium_iOS_PhilmIOSTests_test_action - 2018.01.15 at 18h 26m 44s.xml">
+      <configuration name="Unittests for appium_iOS.PhilmIOSTests.test_action" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_add_unittest_2_py - 2017.12.06 at 17h 59m 26s.xml">
-      <configuration name="Unittests in add_unittest_2.py" configurationId="tests" />
+    <history-entry file="Unittests_for_appium_iOS_PhilmIOSTests_test_action - 2018.01.15 at 18h 43m 46s.xml">
+      <configuration name="Unittests for appium_iOS.PhilmIOSTests.test_action" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_add_unittest_2_py - 2017.12.06 at 17h 59m 32s.xml">
       <configuration name="Unittests in add_unittest_2.py" configurationId="tests" />
@@ -590,24 +601,24 @@
     <frame x="0" y="23" width="1420" height="789" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24647887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32078102" sideWeight="0.52112675" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.264993" sideWeight="0.47887325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31938633" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24647887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26359832" sideWeight="0.47887325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38633195" sideWeight="0.49714285" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31938633" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38633195" sideWeight="0.49714285" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
@@ -693,13 +704,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appiumTest/appium_iOS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unittestDemo/1qq.py" />
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/loader.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -773,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,42 +790,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python3_api/weather_api/crawl_image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../python3_api/weather_api/crawl_image.py" />
     <entry file="file://$PROJECT_DIR$/webTest/progressBar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/picture20.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/picture19.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/picture21.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/picture23.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/image/picture20.jpg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/picture19.jpg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/picture21.jpg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/picture23.jpg" />
     <entry file="file://$PROJECT_DIR$/webTest/image/picture0.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -832,13 +811,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1104">
           <caret line="89" column="4" lean-forward="false" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythontest/screenshotTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="225">
           <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
           <folding>
             <element signature="e#25#34#0" expanded="true" />
@@ -846,67 +824,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/picture02017-12-29-15-26-35.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/picture02017-12-29-15-26-36.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/picture152017-12-29-15-26-35.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/picture152017-12-29-15-28-07.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/%s.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/13.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/14">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/musicDownload.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/image/picture02017-12-29-15-26-35.jpg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/picture02017-12-29-15-26-36.jpg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/picture152017-12-29-15-26-35.jpg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/picture152017-12-29-15-28-07.jpeg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/%s.jpeg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/13.jpg" />
+    <entry file="file://$PROJECT_DIR$/webTest/image/14" />
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="130" column="4" lean-forward="false" selection-start-line="130" selection-start-column="4" selection-end-line="130" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webTest/image/0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/image/0.jpg" />
     <entry file="file://$PROJECT_DIR$/webTest/image/image-2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -929,11 +861,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webTest/picture_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="780">
           <caret line="56" column="53" lean-forward="false" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
           <folding>
             <element signature="e#25#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/musicDownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumTest/appium_iOS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>

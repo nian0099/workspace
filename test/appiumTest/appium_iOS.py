@@ -20,7 +20,7 @@ class PhilmIOSTests(unittest.TestCase):
                                desired_capabilities={
                                # 'app': app,
                                'platformName': 'iOS',
-                               'platformVersion': '11.1',
+                               'platformVersion': '11.2.2',
                                'deviceName': 'Blue',
                                'bundleId': 'com.yoyoshijie.philm',
                                'automationName': 'XCUITest',
