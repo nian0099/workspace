@@ -1,2 +1,3 @@
 test_git commit one
 test_git commit two
+test_git commit three
