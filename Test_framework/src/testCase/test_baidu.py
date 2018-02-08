@@ -3,24 +3,20 @@
 import os
 import time
 import unittest
+from src.utils.config import Config,DRIVER_PATH
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 class Test_Baidu(unittest.TestCase):
     # 设置url
-    URL = "http://www.baidu.com"
-    # 设置根文件目录，这里表示的是去掉最后两个路径
-    BASE_PATH = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-    print(BASE_PATH)
-    DRIVER_PATH = os.path.abspath(BASE_PATH + '/drivers/chromedriver')
-    print(DRIVER_PATH)
-
+    URL = Config().get('URL')
+    print(URL,DRIVER_PATH)
     locator_kw = (By.ID, "kw")
     locator_su = (By.ID, "su")
     locator_result = (By.XPATH, '//div[contains(@class, "result")]/h3/a')
 
     def setUp(self):
-        self.driver = webdriver.Chrome(executable_path=self.DRIVER_PATH)
+        self.driver = webdriver.Chrome(executable_path=DRIVER_PATH + "/chromedriver")
         self.driver.get(self.URL)
 
     def tearDown(self):
