@@ -4,6 +4,7 @@ import os
 import time
 import unittest
 from src.utils.config import Config,DRIVER_PATH
+from src.utils.log import logger
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -28,7 +29,7 @@ class Test_Baidu(unittest.TestCase):
         time.sleep(2)
         links = self.driver.find_elements(*self.locator_result)
         for link in links:
-            print(link.text)
+            logger.info(link.text)
 
     def test_SearchBaidu02(self):
         self.driver.find_element(*self.locator_kw).send_keys('Python Selenium')
@@ -36,7 +37,7 @@ class Test_Baidu(unittest.TestCase):
         time.sleep(2)
         links = self.driver.find_elements(*self.locator_result)
         for link in links:
-            print(link.text)
+            logger.info(link.text)
 
 if __name__ == '__main__':
     unittest.main()

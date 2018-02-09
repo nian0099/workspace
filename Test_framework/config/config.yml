@@ -1,1 +1,7 @@
 URL: http://baidu.com
+log:
+    file_name: test_error.log
+    backup_count: 5
+    output_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
