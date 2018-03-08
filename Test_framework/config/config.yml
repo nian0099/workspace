@@ -1,6 +1,6 @@
 URL: http://baidu.com
 log:
-    file_name: test_error.log
+    file_name: test.log
     backup_count: 5
     output_level: WARNING
     file_level: DEBUG
