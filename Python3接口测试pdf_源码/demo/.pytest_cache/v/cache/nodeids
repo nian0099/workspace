@@ -1,0 +1,5 @@
+[
+  "test_requests_demo.py::TestRequestDemo::()::test_get_posts",
+  "test_requests_demo.py::TestRequestDemo::()::test_get_posts_by_id",
+  "test_requests_demo.py::TestRequestDemo::()::test_delete_posts_by_id"
+]
