@@ -1,6 +1,16 @@
 # -*- coding:utf-8 -*-
 
 import os
+import sys
+
+print(sys.path)
+
+os.chdir("/Users/wangxiaonian/Desktop/study/workspace/Test_Framework/")
+#打印出项目路径下的目录
+for file in os.listdir(os.getcwd()):
+    print(file)
+sys.path.append("/Users/wangxiaonian/Desktop/study/workspace/Test_Framework/")
+
 import time
 import unittest
 from src.utils.config import Config,DRIVER_PATH,DATA_PATH,REPORT_PATH
@@ -75,4 +85,4 @@ if __name__ == '__main__':
               path= report
               )
 
-    e.send()
+    # e.send()
