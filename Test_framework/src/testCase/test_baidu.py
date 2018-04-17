@@ -3,11 +3,12 @@
 import os
 import time
 import unittest
-from src.utils.config import Config,DRIVER_PATH,DATA_PATH
+from src.utils.config import Config,DRIVER_PATH,DATA_PATH,REPORT_PATH
 from src.utils.log import logger
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from src.utils.file_reader import ExcelReader
+from src.utils.HTMLTestRunner import HTMLTestRunner
 
 class Test_Baidu(unittest.TestCase):
     # 设置url
@@ -60,4 +61,7 @@ class Test_Baidu(unittest.TestCase):
                 self.sub_tearDown()
 
 if __name__ == '__main__':
-    unittest.main()
+    report = REPORT_PATH + '//report.html'
+    with open(report,'wb') as f:
+        runner = HTMLTestRunner(f,verbosity=2,title='搭建测试框架',description='修改HTML报告')
+        runner.run(Test_Baidu('test_search'))
