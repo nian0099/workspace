@@ -60,8 +60,10 @@ class ExcelReader:
             if type(self.sheet) not in [int, str]:
                 raise SheetTypeError('Please pass in <type int> or <type str>, not {0}'.format(type(self.sheet)))
             elif type(self.sheet) == int:
+                #可以根据excel的sheet_index来取数据
                 s = workbook.sheet_by_index(self.sheet)
             else:
+                #根据excel的sheet名称来取数据
                 s = workbook.sheet_by_name(self.sheet)
 
             if self.title_line:

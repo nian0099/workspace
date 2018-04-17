@@ -49,6 +49,7 @@ class Test_Baidu(unittest.TestCase):
         datas = ExcelReader(self.excel).data
         for d in datas:
             with self.subTest(data=d):
+            #subTest意义在于将一个用例根据excel里的数据拆分成n个子用例来执行
                 self.sub_setUp()
                 self.driver.find_element(*self.locator_kw).send_keys(d['search'])
                 self.driver.find_element(*self.locator_su).click()
