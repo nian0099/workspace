@@ -14,7 +14,7 @@ browser = webdriver.Chrome()
 #这里调用get函数访问"百度"，如果打不开链接，则会一直等待
 browser.get('http://www.baidu.com')
 #页面加载完成后，判断网页的'title'是否包含"百度"
-assert "百度" in browser.title
+# assert "百度" in browser.title
 #搜索输入框表格的id为"kw"
 elem = browser.find_element_by_id('kw')
 #在搜索框里输入关键字

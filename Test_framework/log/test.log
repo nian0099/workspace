@@ -1,20 +1,270 @@
-2018-03-08 17:33:58,992 - framework - INFO - 灰蓝- CSDN博客
-2018-03-08 17:33:59,013 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
-2018-03-08 17:33:59,032 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
-2018-03-08 17:33:59,050 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
-2018-03-08 17:33:59,067 - framework - INFO - 灰蓝
-2018-03-08 17:33:59,085 - framework - INFO - selenium驱动器配置详解 - 知乎专栏
-2018-03-08 17:33:59,103 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
-2018-03-08 17:33:59,121 - framework - INFO - 学习Selenium同学必看,满满的都是干货 - 简书
-2018-03-08 17:33:59,139 - framework - INFO - Python selenium 一定要会用selenium的... 来自t记得笑t - 微博
-2018-03-08 17:33:59,157 - framework - INFO - Python selenium —— 父子、兄弟、相邻节点定位方式详解 - 简书
-2018-03-08 17:34:05,202 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2018-03-08 17:34:05,220 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
-2018-03-08 17:34:05,239 - framework - INFO - selenium 3.9.0 : Python Package Index
-2018-03-08 17:34:05,259 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - python修行路 ...
-2018-03-08 17:34:05,277 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
-2018-03-08 17:34:05,299 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
-2018-03-08 17:34:05,320 - framework - INFO - Python selenium —— 教你在Windows上搭建Python+Selenium环境 -...
-2018-03-08 17:34:05,340 - framework - INFO - 如何在python中使用selenium - 简书
-2018-03-08 17:34:05,364 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
-2018-03-08 17:34:05,386 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-16 18:28:00,470 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-16 18:28:00,493 - framework - INFO - 灰蓝- CSDN博客
+2018-04-16 18:28:00,510 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-16 18:28:00,528 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-16 18:28:00,544 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-16 18:28:00,566 - framework - INFO - 灰蓝
+2018-04-16 18:28:00,584 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-16 18:28:00,607 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-16 18:28:00,634 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-16 18:28:00,650 - framework - INFO - 灰蓝- CSDN博客
+2018-04-16 18:28:06,765 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-16 18:28:06,782 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-16 18:28:06,802 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-16 18:28:06,827 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-16 18:28:06,856 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-16 18:28:06,903 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-16 18:28:06,922 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-16 18:28:06,991 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-16 18:28:07,017 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-16 18:28:07,042 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-16 18:42:52,066 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-16 18:42:52,091 - framework - INFO - 灰蓝- CSDN博客
+2018-04-16 18:42:52,108 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-16 18:42:52,123 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-16 18:42:52,139 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-16 18:42:52,156 - framework - INFO - 灰蓝
+2018-04-16 18:42:52,177 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-16 18:42:52,203 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-16 18:42:52,224 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-16 18:42:52,246 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-16 18:42:58,046 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-16 18:42:58,064 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-16 18:42:58,089 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-16 18:42:58,107 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-16 18:42:58,129 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-16 18:42:58,144 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-16 18:42:58,159 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-16 18:42:58,173 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-16 18:42:58,188 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-16 18:42:58,202 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-16 18:43:49,608 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-16 18:43:49,626 - framework - INFO - 灰蓝- CSDN博客
+2018-04-16 18:43:49,642 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-16 18:43:49,657 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-16 18:43:49,676 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-16 18:43:49,692 - framework - INFO - 灰蓝
+2018-04-16 18:43:49,708 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-16 18:43:49,725 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-16 18:43:49,744 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-16 18:43:49,774 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-16 18:44:04,294 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-16 18:44:04,333 - framework - INFO - 灰蓝- CSDN博客
+2018-04-16 18:44:04,359 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-16 18:44:04,392 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-16 18:44:04,417 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-16 18:44:04,462 - framework - INFO - 灰蓝
+2018-04-16 18:44:04,484 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-16 18:44:04,507 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-16 18:44:04,531 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-16 18:44:04,546 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-16 18:44:10,502 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-16 18:44:10,583 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-16 18:44:10,666 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-16 18:44:10,710 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-16 18:44:10,858 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-16 18:44:10,957 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-16 18:44:11,064 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-16 18:44:11,124 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-16 18:44:11,155 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-16 18:44:11,190 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-16 19:03:57,939 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-16 19:03:57,971 - framework - INFO - a_百度翻译
+2018-04-16 19:03:57,991 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-16 19:03:58,012 - framework - INFO - HTML <a> 标签
+2018-04-16 19:03:58,036 - framework - INFO - a_百度百科
+2018-04-16 19:03:58,052 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-16 19:03:58,075 - framework - INFO - A* search algorithm - Wikipedia
+2018-04-16 19:03:58,092 - framework - INFO - ACCA网课-ACCA在线学习-好睿网校-A课堂
+2018-04-16 19:03:58,108 - framework - INFO - 电影频道-热门好看的电影大全-正版高清电影在线观看-爱奇艺
+2018-04-16 19:03:58,130 - framework - INFO - Home | Hyundai A-League
+2018-04-16 19:04:04,792 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-16 19:04:04,809 - framework - INFO - a_百度翻译
+2018-04-16 19:04:04,830 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-16 19:04:04,855 - framework - INFO - HTML <a> 标签
+2018-04-16 19:04:04,886 - framework - INFO - a_百度百科
+2018-04-16 19:04:04,931 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-16 19:04:04,947 - framework - INFO - A* search algorithm - Wikipedia
+2018-04-16 19:04:04,966 - framework - INFO - ACCA网课-ACCA在线学习-好睿网校-A课堂
+2018-04-16 19:04:04,997 - framework - INFO - 电影频道-热门好看的电影大全-正版高清电影在线观看-爱奇艺
+2018-04-16 19:04:05,015 - framework - INFO - Home | Hyundai A-League
+2018-04-17 10:04:13,599 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:04:13,614 - framework - INFO - a_百度翻译
+2018-04-17 10:04:13,627 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:04:13,641 - framework - INFO - HTML <a> 标签
+2018-04-17 10:04:13,656 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:04:13,671 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:04:13,688 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:04:13,702 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:04:13,716 - framework - INFO - a_百度百科
+2018-04-17 10:04:13,730 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:04:19,043 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:04:19,058 - framework - INFO - a_百度翻译
+2018-04-17 10:04:19,072 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:04:19,087 - framework - INFO - HTML <a> 标签
+2018-04-17 10:04:19,101 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:04:19,116 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:04:19,131 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:04:19,147 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:04:19,162 - framework - INFO - a_百度百科
+2018-04-17 10:04:19,176 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:06:17,168 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:06:19,989 - framework - INFO - a_百度翻译
+2018-04-17 10:06:22,004 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:06:24,263 - framework - INFO - HTML <a> 标签
+2018-04-17 10:06:25,497 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:06:26,506 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:06:27,477 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:06:28,580 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:06:29,767 - framework - INFO - a_百度百科
+2018-04-17 10:06:31,283 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:06:45,710 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:06:45,727 - framework - INFO - a_百度翻译
+2018-04-17 10:06:45,742 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:06:45,757 - framework - INFO - HTML <a> 标签
+2018-04-17 10:06:45,773 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:06:45,788 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:06:45,803 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:06:45,819 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:06:45,834 - framework - INFO - a_百度百科
+2018-04-17 10:06:45,849 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:08:06,745 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:08:06,779 - framework - INFO - a_百度翻译
+2018-04-17 10:08:06,812 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:08:06,839 - framework - INFO - HTML <a> 标签
+2018-04-17 10:08:06,857 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:08:06,871 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:08:06,886 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:08:06,901 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:08:06,916 - framework - INFO - a_百度百科
+2018-04-17 10:08:06,930 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:08:12,698 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:08:12,712 - framework - INFO - a_百度翻译
+2018-04-17 10:08:12,727 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:08:12,757 - framework - INFO - HTML <a> 标签
+2018-04-17 10:08:12,775 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:08:12,796 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:08:12,827 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:08:12,859 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:08:12,888 - framework - INFO - a_百度百科
+2018-04-17 10:08:12,921 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:08:18,721 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:08:18,736 - framework - INFO - a_百度翻译
+2018-04-17 10:08:18,750 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:08:18,765 - framework - INFO - HTML <a> 标签
+2018-04-17 10:08:18,779 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:08:18,794 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:08:18,809 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:08:18,825 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:08:18,843 - framework - INFO - a_百度百科
+2018-04-17 10:08:18,858 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:13:56,506 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:13:58,281 - framework - INFO - a_百度翻译
+2018-04-17 10:13:59,701 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:14:01,164 - framework - INFO - HTML <a> 标签
+2018-04-17 10:14:02,610 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:14:04,987 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:14:06,851 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:14:08,384 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:14:09,737 - framework - INFO - a_百度百科
+2018-04-17 10:14:10,682 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:14:39,102 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:14:40,135 - framework - INFO - a_百度翻译
+2018-04-17 10:14:41,086 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:14:42,154 - framework - INFO - HTML <a> 标签
+2018-04-17 10:14:43,237 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:14:44,129 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:14:44,944 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:14:46,616 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:14:47,619 - framework - INFO - a_百度百科
+2018-04-17 10:14:48,684 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:15:04,319 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:15:05,248 - framework - INFO - a_百度翻译
+2018-04-17 10:15:06,202 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:15:07,475 - framework - INFO - HTML <a> 标签
+2018-04-17 10:15:08,465 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:15:41,430 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:15:42,665 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:15:43,954 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:15:45,171 - framework - INFO - a_百度百科
+2018-04-17 10:15:46,549 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:18:07,556 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:18:07,571 - framework - INFO - a_百度翻译
+2018-04-17 10:18:07,590 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:18:07,605 - framework - INFO - HTML <a> 标签
+2018-04-17 10:18:07,620 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:18:07,634 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:18:07,648 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:18:07,662 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:18:07,676 - framework - INFO - a_百度百科
+2018-04-17 10:18:07,690 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:18:13,045 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:18:13,061 - framework - INFO - a_百度翻译
+2018-04-17 10:18:13,077 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:18:13,093 - framework - INFO - HTML <a> 标签
+2018-04-17 10:18:13,111 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:18:13,125 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:18:13,140 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:18:13,154 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:18:13,169 - framework - INFO - a_百度百科
+2018-04-17 10:18:13,183 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:18:18,494 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:18:18,508 - framework - INFO - a_百度翻译
+2018-04-17 10:18:18,522 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:18:18,536 - framework - INFO - HTML <a> 标签
+2018-04-17 10:18:18,550 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:18:18,564 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:18:18,578 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:18:18,592 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:18:18,606 - framework - INFO - a_百度百科
+2018-04-17 10:18:18,622 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:19:43,370 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:19:43,384 - framework - INFO - a_百度翻译
+2018-04-17 10:19:43,398 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:19:43,412 - framework - INFO - HTML <a> 标签
+2018-04-17 10:19:43,427 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:19:43,441 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:19:43,457 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:19:43,474 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:19:43,489 - framework - INFO - a_百度百科
+2018-04-17 10:19:43,503 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:19:48,581 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:19:48,595 - framework - INFO - a_百度翻译
+2018-04-17 10:19:48,608 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:19:48,622 - framework - INFO - HTML <a> 标签
+2018-04-17 10:19:48,637 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:19:48,651 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:19:48,665 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:19:48,679 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:19:48,693 - framework - INFO - a_百度百科
+2018-04-17 10:19:48,709 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:19:54,005 - framework - INFO - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+2018-04-17 10:19:54,024 - framework - INFO - a_百度翻译
+2018-04-17 10:19:54,038 - framework - INFO - 爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看
+2018-04-17 10:19:54,053 - framework - INFO - HTML <a> 标签
+2018-04-17 10:19:54,067 - framework - INFO - 万科A大跌|万 科A_新浪财经_新浪网
+2018-04-17 10:19:54,081 - framework - INFO - a(字母名称)_百度百科
+2018-04-17 10:19:54,096 - framework - INFO - HTML <a> 标签 | 菜鸟教程
+2018-04-17 10:19:54,117 - framework - INFO - 亞洲當代藝術空間|A+ Contemporary
+2018-04-17 10:19:54,133 - framework - INFO - a_百度百科
+2018-04-17 10:19:54,147 - framework - INFO - A-1 Pictures オフィシャルサイト
+2018-04-17 10:42:45,817 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-17 10:42:45,832 - framework - INFO - 灰蓝- CSDN博客
+2018-04-17 10:42:45,846 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-17 10:42:45,860 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-17 10:42:45,874 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-17 10:42:45,888 - framework - INFO - 灰蓝
+2018-04-17 10:42:45,902 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-17 10:42:45,927 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-17 10:42:45,945 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-17 10:42:45,959 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-17 10:42:51,339 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-17 10:42:51,354 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-17 10:42:51,369 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-17 10:42:51,384 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-17 10:42:51,402 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-17 10:42:51,418 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-17 10:42:51,432 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-17 10:42:51,447 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-17 10:42:51,471 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-17 10:42:51,486 - framework - INFO - python + selenium自动化测试项目实战
