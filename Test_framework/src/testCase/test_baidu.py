@@ -9,6 +9,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from src.utils.file_reader import ExcelReader
 from src.utils.HTMLTestRunner import HTMLTestRunner
+from src.utils.mail import Email
 
 class Test_Baidu(unittest.TestCase):
     # 设置url
@@ -63,5 +64,15 @@ class Test_Baidu(unittest.TestCase):
 if __name__ == '__main__':
     report = REPORT_PATH + '//report.html'
     with open(report,'wb') as f:
-        runner = HTMLTestRunner(f,verbosity=2,title='搭建测试框架',description='修改HTML报告')
+        runner = HTMLTestRunner(f,verbosity=2,title='搭建测试框架',description='每日HTML报告')
         runner.run(Test_Baidu('test_search'))
+    e = Email(title= "百度搜索测试报告",
+              message= "今日测试报告，请查收",
+              receiver= "nian110nian@qq.com",
+              server= "smtp.163.com",
+              sender= "niannian0099@163.com",
+              password= "xxn123",#第三方登录客户端时使用授权码登录
+              path= report
+              )
+
+    e.send()

@@ -348,3 +348,179 @@
 2018-04-17 11:14:48,797 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
 2018-04-17 11:14:48,829 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
 2018-04-17 11:14:48,857 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-17 14:39:38,119 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-17 14:39:38,136 - framework - INFO - 灰蓝- CSDN博客
+2018-04-17 14:39:38,151 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-17 14:39:38,165 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-17 14:39:38,180 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-17 14:39:38,197 - framework - INFO - 灰蓝
+2018-04-17 14:39:38,212 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-17 14:39:38,227 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-17 14:39:38,242 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-17 14:39:38,258 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-17 14:39:45,640 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-17 14:39:45,656 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-17 14:39:45,672 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-17 14:39:45,690 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-17 14:39:45,707 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-17 14:39:45,726 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-17 14:39:45,749 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-17 14:39:45,770 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-17 14:39:45,794 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-17 14:39:45,811 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-17 14:39:45,907 - framework - INFO - attach file /Users/wangxiaonian/Desktop/study/workspace/Test_Framework/report//report.html
+2018-04-17 14:39:47,269 - framework - ERROR - 用户名及密码验证失败--(535, b'Error: authentication failed')
+Traceback (most recent call last):
+  File "/Users/wangxiaonian/Desktop/study/workspace/Test_Framework/src/utils/mail.py", line 79, in send
+    smtp_server.login(self.sender,self.password)   #登录
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 729, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+2018-04-17 14:39:47,319 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：nian110nian@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-04-17 14:42:43,030 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-17 14:42:43,047 - framework - INFO - 灰蓝- CSDN博客
+2018-04-17 14:42:43,063 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-17 14:42:43,080 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-17 14:42:43,097 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-17 14:42:43,112 - framework - INFO - 灰蓝
+2018-04-17 14:42:43,129 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-17 14:42:43,145 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-17 14:42:43,167 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-17 14:42:43,187 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-17 14:42:49,351 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-17 14:42:49,367 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-17 14:42:49,381 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-17 14:42:49,398 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-17 14:42:49,414 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-17 14:42:49,429 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-17 14:42:49,446 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-17 14:42:49,467 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-17 14:42:49,483 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-17 14:42:49,498 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-17 14:42:49,581 - framework - INFO - attach file /Users/wangxiaonian/Desktop/study/workspace/Test_Framework/report//report.html
+2018-04-17 14:42:49,963 - framework - ERROR - 用户名及密码验证失败--(535, b'Error: authentication failed')
+Traceback (most recent call last):
+  File "/Users/wangxiaonian/Desktop/study/workspace/Test_Framework/src/utils/mail.py", line 79, in send
+    smtp_server.login(self.sender,self.password)    #登录
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 729, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+2018-04-17 14:42:50,011 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：nian110nian@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-04-17 14:43:22,482 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-17 14:43:22,498 - framework - INFO - 灰蓝- CSDN博客
+2018-04-17 14:43:22,514 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-17 14:43:22,529 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-17 14:43:22,544 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-17 14:43:22,560 - framework - INFO - 灰蓝
+2018-04-17 14:43:22,575 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-17 14:43:22,596 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-17 14:43:22,611 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-17 14:43:22,628 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-17 14:43:28,483 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-17 14:43:28,498 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-17 14:43:28,513 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-17 14:43:28,528 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-17 14:43:28,544 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-17 14:43:28,559 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-17 14:43:28,575 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-17 14:43:28,592 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-17 14:43:28,608 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-17 14:43:28,623 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-17 14:43:28,706 - framework - INFO - attach file /Users/wangxiaonian/Desktop/study/workspace/Test_Framework/report//report.html
+2018-04-17 14:43:29,149 - framework - ERROR - 用户名及密码验证失败--(535, b'Error: authentication failed')
+Traceback (most recent call last):
+  File "/Users/wangxiaonian/Desktop/study/workspace/Test_Framework/src/utils/mail.py", line 79, in send
+    smtp_server.login(self.sender,self.password)    #登录
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 729, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+2018-04-17 14:43:29,204 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：nian110nian@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-04-17 14:44:33,946 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-17 14:44:33,963 - framework - INFO - 灰蓝- CSDN博客
+2018-04-17 14:44:33,977 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-17 14:44:33,992 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-17 14:44:34,007 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-17 14:44:34,023 - framework - INFO - 灰蓝
+2018-04-17 14:44:34,039 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-17 14:44:34,057 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-17 14:44:34,074 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-17 14:44:34,091 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-17 14:44:40,360 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-17 14:44:40,383 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-17 14:44:40,402 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-17 14:44:40,419 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-17 14:44:40,443 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-17 14:44:40,458 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-17 14:44:40,473 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-17 14:44:40,488 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-17 14:44:40,503 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-17 14:44:40,521 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-17 14:44:40,602 - framework - INFO - attach file /Users/wangxiaonian/Desktop/study/workspace/Test_Framework/report//report.html
+2018-04-17 14:44:41,066 - framework - ERROR - 用户名及密码验证失败--(535, b'Error: authentication failed')
+Traceback (most recent call last):
+  File "/Users/wangxiaonian/Desktop/study/workspace/Test_Framework/src/utils/mail.py", line 79, in send
+    smtp_server.login(self.sender,self.password)    #登录
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 729, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+2018-04-17 14:44:41,127 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：nian110nian@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-04-17 14:50:54,119 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-17 14:50:54,165 - framework - INFO - 灰蓝- CSDN博客
+2018-04-17 14:50:54,197 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-17 14:50:54,213 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-17 14:50:54,238 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-17 14:50:54,258 - framework - INFO - 灰蓝
+2018-04-17 14:50:54,277 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-17 14:50:54,297 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-17 14:50:54,315 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-17 14:50:54,344 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-17 14:51:02,785 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-17 14:51:02,800 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-17 14:51:02,818 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-17 14:51:02,840 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-17 14:51:02,858 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-17 14:51:02,875 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-17 14:51:02,896 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-17 14:51:02,911 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-17 14:51:02,929 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-17 14:51:02,946 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-17 14:51:03,033 - framework - INFO - attach file /Users/wangxiaonian/Desktop/study/workspace/Test_Framework/report//report.html
+2018-04-17 14:51:03,434 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：nian110nian@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-04-17 14:51:26,730 - framework - INFO - ...—— 教你在Windows上搭建Python+Selenium环境 - 灰蓝 - 博客...
+2018-04-17 14:51:26,750 - framework - INFO - 灰蓝- CSDN博客
+2018-04-17 14:51:26,778 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-04-17 14:51:26,800 - framework - INFO - selenium之 文件上传所有方法整理总结 - CSDN博客
+2018-04-17 14:51:26,822 - framework - INFO - 学习Selenium同学必看 - 孟船长 - 博客园
+2018-04-17 14:51:26,848 - framework - INFO - 灰蓝
+2018-04-17 14:51:26,863 - framework - INFO - selenium | 浏览器导航栏的三个按钮(back、forward、refr..._博客园
+2018-04-17 14:51:26,883 - framework - INFO - selenium之 时间日期控件的处理 - CSDN博客
+2018-04-17 14:51:26,898 - framework - INFO - Python selenium —— 一定要会用selenium的等待,三种..._CSDN博客
+2018-04-17 14:51:26,912 - framework - INFO - selenium之 功能键Keys - CSDN博客
+2018-04-17 14:51:33,073 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-04-17 14:51:33,089 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-04-17 14:51:33,105 - framework - INFO - selenium 3.11.0 : Python Package Index
+2018-04-17 14:51:33,123 - framework - INFO - Selenium2+python自动化1-环境搭建 - 上海-悠悠 - 博客园
+2018-04-17 14:51:33,141 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-04-17 14:51:33,157 - framework - INFO - python+selenium 自动化测试入门示例(邮件发送) - CSDN博客
+2018-04-17 14:51:33,173 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-04-17 14:51:33,188 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-04-17 14:51:33,204 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-04-17 14:51:33,223 - framework - INFO - python + selenium自动化测试项目实战
+2018-04-17 14:51:33,300 - framework - INFO - attach file /Users/wangxiaonian/Desktop/study/workspace/Test_Framework/report//report.html
+2018-04-17 14:51:34,295 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：nian110nian@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
