@@ -3,12 +3,12 @@
 import os
 import sys
 
-print(sys.path)
+# print(sys.path)
 
 os.chdir("/Users/wangxiaonian/Desktop/study/workspace/Test_Framework/")
 #打印出项目路径下的目录
 for file in os.listdir(os.getcwd()):
-    print(file)
+    a = file
 sys.path.append("/Users/wangxiaonian/Desktop/study/workspace/Test_Framework/")
 
 import time
@@ -24,7 +24,8 @@ from src.utils.mail import Email
 class Test_Baidu(unittest.TestCase):
     # 设置url
     URL = Config().get('URL')
-    print(URL,DRIVER_PATH)
+    # 打印出项目路径
+    # print(URL,DRIVER_PATH)
 
     excel = DATA_PATH + '/baidu.xlsx'
 
